@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = ""
+baseURL = "https://www.esbb.de/"
 title = "Elektroservice Bodo Büchner"
 theme = "bookworm-light"
 # post pagination
