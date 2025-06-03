@@ -2,14 +2,16 @@
 baseURL = "https://www.esbb.de/"
 title = "Elektroservice Bodo Büchner"
 theme = "bookworm-light"
-# post pagination
-paginate = "5"
 # post excerpt
 summaryLength = "20"
 # google analytics
 googleAnalytics = "" # example : UA-123-45
 # disqus short name
 disqusShortname = "themefisher-template" # get your shortname form here : https://disqus.com
+
+########################## Pagination ##############################
+[pagination]
+pagerSize = 10   # Anzahl Einträge pro Seite
 
 ############################# Modules ##############################
 [module.hugoVersion]
