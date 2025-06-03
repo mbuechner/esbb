@@ -81,7 +81,7 @@ search = false
 # main section
 mainSections = ["blog"]
 # copyright
-copyright = "&copy; 2001-2024 Elektroservice Bodo Büchner"
+copyright = "&copy; 2001-2025 Elektroservice Bodo Büchner"
 
 # Preloader
 [params.preloader]
